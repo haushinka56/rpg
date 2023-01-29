@@ -19,19 +19,19 @@ const monsterHealthText = document.querySelector("#monsterHealth");
 
 const weapons = [
   {
-    name: "Stick ",
+    name: "Stick",
     power: 5,
   },
   {
-    name: "Dagger ",
+    name: " Dagger",
     power: 30,
   },
   {
-    name: "Claw Hammer ",
+    name: " Claw Hammer",
     power: 50,
   },
   {
-    name: "Sword",
+    name: " Sword",
     power: 100,
   },
 ];
