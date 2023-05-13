@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-To run the game, click [here](https://haushinka56.github.io/RPG/)
+To run the game, click [here](https://haushinka56.github.io/rpg/)
 <br>
 
 <p align="center">
